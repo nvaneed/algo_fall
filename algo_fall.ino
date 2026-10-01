@@ -3,8 +3,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // ===============================
-// ESP32-S3 + LD2410C + working +testing
-// ===============================
+// ==============================
 
 // LD2410C UART pins
 #define RADAR_RX_PIN 18   // ESP32 RX <- LD2410 TX
