@@ -3,7 +3,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // ===============================
-// ESP32-S3 + LD2410C
+// ESP32-S3 + LD2410C + working 
 // ===============================
 
 // LD2410C UART pins
